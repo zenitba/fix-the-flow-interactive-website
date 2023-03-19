@@ -3,9 +3,14 @@
 
 ## User Story 👥 
  Als ouder wil ik bij het openen van Mijn Vini Mini persoonlijk advies behorende bij de betreffende dag kunnen lezen, zodat de kans op een allergische reactie bij mijn kind kleiner wordt
+ 
+ #Vini Mini🥚🥜
+Vini Mini heeft als missie om voedselallergie te voorkomen bij baby’s. Hiervoor bieden ze gezonde, makkelijke en betrouwbare voedingssupplementen voor baby’s om te wenne naan bepaalde allergenen. Nu alleen nog voor pinda, maar het doel is om hier ei, noten en andere allergenen aan toe te voegen.
 
-## Beschrijving
-Ik heb een inlog scherm gemaakt met behulp van JS zodat je moet inloggen om je persoonlijke pagina/advies te kunnen zien.
+## Beschrijving📝
+Ik heb een inlog scherm gemaakt met behulp van JS zodat gebruikers/ouders moeten inloggen om hun persoonlijke pagina/advies te kunnen bekijken.
+Ik heb de login pagina gemaakt doormiddel van form. 
+In javascript heb ik een function validated toegevoegd en dat houdt in dat je emailadres/wachtwoord minimale lengte nodig heeft om in te loggen voldoet het emailadres/wachtwoord niet aan de minimale lengte krijg je error en wordt de emailadres/wachtwoord vakje rood en krijg je melding doormiddel van return false. 
 
 ## Kenmerken 💻
 
